@@ -145,5 +145,4 @@ public class SocialMediaController {
             ctx.status(401).result("");
         }
     }
-
 }
